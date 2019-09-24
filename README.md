@@ -14,9 +14,9 @@ To utilize the bootloader LED indicator,you will need to solder bridge SJ2 and m
 
 
 Bottom row:
-     1.5__1.0___1.5___space 6.5___1.5___1.5___1__1__1		  (AEK + RShift and 1u option key from m0116)
+	1.5__1.0___1.5___space 6.5___1.5___1.5___1__1__1	 (AEK + RShift and 1u option key from m0116)
 
-     1.5__1.25__1.5___space 6.25__1.5___1.5___1__1__1		  (AEK Standard with 6.25 spacebar)
+	1.5__1.25__1.5___space 6.25__1.5___1.5___1__1__1	 (AEK Standard with 6.25 spacebar)
 	
 	1.25__1.25__1.25__space 6__1.25__1.25__1.25__1__1__1     (FC660c bottom row, must jump SJ1)
 	
