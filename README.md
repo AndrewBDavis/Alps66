@@ -1,7 +1,7 @@
 ALPS 66% keyboard PCB
 =====================
 The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
-The switch holes are 2.05mm to support 8134-HC-12P2 /  8134-HC-12P3 holtite sockets. 
+The hotswap version's switch holes are 2.05mm to support 8134-HC-12P2 /  8134-HC-12P3 holtite sockets. 
 The pcb schematic is modified from Hasu's Alps64 and thus uses the same components.
 
 Supported Layouts
