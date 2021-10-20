@@ -1,1 +1,1 @@
-FR4 Alps Plate files for use in Leopold FC660M plastic case
+FR4 Alps plate files for use in Leopold FC660M plastic case
