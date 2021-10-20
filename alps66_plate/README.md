@@ -1,1 +1,1 @@
-KBDFans KBD66 Alps switch retrofit pLate for use with Apple Extended Keyboard keycaps and my Alps66 PCB
+KBDFans KBD66 retrofit plate for use with the Alps66 PCB, Alps switches and Apple Extended Keyboard keycaps
