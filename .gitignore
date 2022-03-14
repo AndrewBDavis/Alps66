@@ -1,3 +1,10 @@
 *.bak
 *.zip
+*fp-info-cache
 alps66_gerbers/
+alps66-backups/
+kbd66_plate/
+fc660a_plate/fc660a_plate_gerbers/
+fc660a_plate/fc660a_plate-backups/
+fc660_aek_plate/fc660_aek_plate_gerbers/
+fc660_aek_plate/fc660_aek_plate-backups/
