@@ -26,7 +26,7 @@ Bottom row:
 	1.25__1.0___1.25__6.25__1.25__1.25__1.25__1__1__1	(FC660m bottom row)
  
  
-Caps lock:
+Caps lock:  
 	0.75u  (Non Stepped)  
 	0.25u  (Alps Dell/SGI Stepped)  
 	0.125u (Cherry Stepped)  
