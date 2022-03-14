@@ -4,7 +4,7 @@ The primary goal of this project was create as PCB which fits in KBD66 and FC660
 The pcb schematic is modified from Hasu's Alps64.
 
 ![alps66_pcb](https://github.com/AndrewBDavis/Alps66/blob/master/alps66_pcb.jpg)
-alps66_pcb.jpg
+
 Supported Layouts
 ---------------
 No ISO Enter (Especially ISO AEK)
