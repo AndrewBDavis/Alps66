@@ -64,13 +64,13 @@ Revisions
 -------------
 V1.0: 	Initial Release  
 V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12P2 / 8134-HC-12P3 holtite sockets.  
-&emsp;&emsp;&nbsp;Crystal Load Capacitance changed from 10pF to 12pF  
-&emsp;&emsp;&nbsp;Changed C1 package size from 1206 to 0805  
-&emsp;&emsp;&nbsp;Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library  
-&emsp;&emsp;&nbsp;Change ground plane configuration  
-&emsp;&emsp;&nbsp;Moved diode D15 to allow added mounting location between K15 and K16  
-&emsp;&emsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars  
-&emsp;&emsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
-&emsp;&emsp;&nbsp;Changed matrix and removed solder jumpers  
-&emsp;&emsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
+&emsp;&emsp;&nbsp;&nbsp;Crystal Load Capacitance changed from 10pF to 12pF  
+&emsp;&emsp;&nbsp;&nbsp;Changed C1 package size from 1206 to 0805  
+&emsp;&emsp;&nbsp;&nbsp;Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library  
+&emsp;&emsp;&nbsp;&nbsp;Change ground plane configuration  
+&emsp;&emsp;&nbsp;&nbsp;Moved diode D15 to allow added mounting location between K15 and K16  
+&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars  
+&emsp;&emsp;&nbsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
+&emsp;&emsp;&nbsp;&nbsp;Changed matrix and removed solder jumpers  
+&emsp;&emsp;&nbsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
 		
