@@ -34,9 +34,9 @@ Where key unit for rows: Esc[0u], 1[1u]...
 
 Supported Cases
 -------------
-KBDFans KBD66 (confirmed)
-Leopold FC660m (confirmed)
-KBDFans KBD661 (unconfirmed)
+KBDFans KBD66 (confirmed)  
+Leopold FC660m (confirmed)  
+KBDFans KBD661 (unconfirmed)  
 
 BOM for Alps66 keyboard                                                  
 ------------------
