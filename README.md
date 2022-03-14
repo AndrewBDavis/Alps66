@@ -57,7 +57,7 @@ BOM for Alps66 keyboard
 | R4    | 1K         | R_0805               |                      |
 | R5    | 10K        | R_0805               |                      |
 | SW100 | SW_PUSH    | SW_SPST_B3U-1000P-B  | B3U-1000P-B          |
-| U1    | ATMEGA32U2 | QFP32                | ATMega32u2 Atmel     | 
+| U1    | ATMEGA32U2 | QFP32                | ATMega32u2-AU        | 
 | X1    | CRYSTAL    | FA-238               | 16MHz, 12PF          |
 | D(67) | DIODE      | SOD-123 or Axial     | 1N4148               |
 | LED1  | LED        | LED                  | 2.54mm pitch         |
