@@ -34,9 +34,9 @@ Where key unit for rows: Esc[0u], 1[1u]...
 
 Supported Cases
 -------------
-KBDFans KBD66 (confirmed)
-Leopold FC660m (confirmed)
-KBDFans KBD661 (unconfirmed)
+KBDFans KBD66 (confirmed)  
+Leopold FC660m (confirmed)  
+KBDFans KBD661 (unconfirmed)  
 
 BOM for Alps66 keyboard                                                  
 ------------------
@@ -62,15 +62,15 @@ BOM for Alps66 keyboard
 
 Revisions
 -------------
-V1.0: 	Initial Release
-V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12P2 / 8134-HC-12P3 holtite sockets.
-	Crystal Load Capacitance changed from 10pF to 12pF
-	Changed C1 package size from 1206 to 0805
-	Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library
-	Change ground plane configuration
-	Moved diode D15 to allow added mounting location between K15 and K16
-	Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars 
-	Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key
-	Changed matrix and removed solder jumpers
-	Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row
+V1.0: 	Initial Release  
+V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12P2 / 8134-HC-12P3 holtite sockets.  
+&emsp;&emsp;&nbsp;&nbsp;Crystal Load Capacitance changed from 10pF to 12pF  
+&emsp;&emsp;&nbsp;&nbsp;Changed C1 package size from 1206 to 0805  
+&emsp;&emsp;&nbsp;&nbsp;Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library  
+&emsp;&emsp;&nbsp;&nbsp;Change ground plane configuration  
+&emsp;&emsp;&nbsp;&nbsp;Moved diode D15 to allow added mounting location between K15 and K16  
+&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars  
+&emsp;&emsp;&nbsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
+&emsp;&emsp;&nbsp;&nbsp;Changed matrix and removed solder jumpers  
+&emsp;&emsp;&nbsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
 		
