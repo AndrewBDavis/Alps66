@@ -27,9 +27,9 @@ Bottom row:
  
  
 Caps lock:
-	0.75u  (Non Stepped)
-	0.25u  (Alps Dell/SGI Stepped)
-	0.125u (Cherry Stepped)
+	0.75u  (Non Stepped)  
+	0.25u  (Alps Dell/SGI Stepped)  
+	0.125u (Cherry Stepped)  
 
 Where key unit for rows: Esc[0u], 1[1u]...
 
