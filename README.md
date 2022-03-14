@@ -62,7 +62,7 @@ BOM for Alps66 keyboard
 
 Revisions
 -------------
-V1.0: 	Initial Release
+V1.0: 	Initial Release  
 V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12P2 / 8134-HC-12P3 holtite sockets.  
 	Crystal Load Capacitance changed from 10pF to 12pF  
 	Changed C1 package size from 1206 to 0805  
