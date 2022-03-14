@@ -1,6 +1,6 @@
 ALPS 66% keyboard PCB
 =====================
-The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
+The primary goal of this project was to design a PCB and plate which fits in KBD66 and FC660m cases and supports FC660m, FC660c and 66% AEK style layouts.
 The pcb schematic is modified from Hasu's Alps64.
 
 ![alps66_pcb](https://github.com/AndrewBDavis/Alps66/blob/master/alps66_pcb.jpg)
