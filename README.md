@@ -3,6 +3,8 @@ ALPS 66% keyboard PCB
 The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
 The pcb schematic is modified from Hasu's Alps64.
 
+![alps66_pcb](https://user-images.githubusercontent.com/39595668/158249044-edfdbe8a-8acc-44e9-a0c9-bf048ac561cd.jpg)
+
 Supported Layouts
 ---------------
 No ISO Enter (Especially ISO AEK)
@@ -57,8 +59,8 @@ BOM for Alps66 keyboard
 | SW100 | SW_PUSH    | SW_SPST_B3U-1000P-B  | B3U-1000P-B          |
 | U1    | ATMEGA32U2 | QFP32                | ATMega32u2 Atmel     | 
 | X1    | CRYSTAL    | FA-238               | 16MHz, 12PF          |
-| D*64  | DIODE      | SOD-123 or Axial     | 1N4148               |
-| LED1  | LED        | LED_Rectangular...   | 2.54mm pitch         |
+| D(67) | DIODE      | SOD-123 or Axial     | 1N4148               |
+| LED1  | LED        | LED                  | 2.54mm pitch         |
 
 Revisions
 -------------
@@ -73,4 +75,3 @@ V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12
 &emsp;&emsp;&nbsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
 &emsp;&emsp;&nbsp;&nbsp;Changed matrix and removed solder jumpers  
 &emsp;&emsp;&nbsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
-		
