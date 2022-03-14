@@ -1,0 +1,1 @@
+FR4 plate files for use with Alps switches, Alps plate-mount stabilizers and Alps66 pcb in KBD66 or Leopold FC660M plastic case

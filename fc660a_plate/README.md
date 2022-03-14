@@ -1,1 +1,1 @@
-FR4 FC660A plate files for use with Alps switches and Alps66 pcb in Leopold FC660M plastic case
+FR4 plate files for use with Alps switches, Cherry PCB-mount stabilizers and Alps66 pcb in KBD66 or Leopold FC660M plastic case
