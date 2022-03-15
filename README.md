@@ -6,6 +6,7 @@ The pcb schematic is modified from Hasu's Alps64.
 ![alps66_pcb](https://github.com/AndrewBDavis/Alps66/blob/master/alps66_pcb.jpg)
 
 ![original_b78a812e-5f5d-4627-9017-195e72d05074_PXL_20211022_134126410](https://user-images.githubusercontent.com/39595668/158284196-30c5b18c-e798-4116-88bb-9f892bb77be8.jpg)
+Shown in FC660m case with FC660 FR4 Plate
 
 Supported Layouts
 ---------------
