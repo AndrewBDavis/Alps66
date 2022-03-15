@@ -1,9 +1,12 @@
 ALPS 66% keyboard PCB
 =====================
-The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
+The primary goal of this project was to design a PCB and plate which fits in KBD66 and FC660m cases and supports FC660m, FC660c and 66% AEK style layouts.
 The pcb schematic is modified from Hasu's Alps64.
 
-![alps66_pcb](https://user-images.githubusercontent.com/39595668/158249044-edfdbe8a-8acc-44e9-a0c9-bf048ac561cd.jpg)
+![alps66_pcb](https://github.com/AndrewBDavis/Alps66/blob/master/alps66_pcb.jpg)
+
+![original_b78a812e-5f5d-4627-9017-195e72d05074_PXL_20211022_134126410](https://user-images.githubusercontent.com/39595668/158284196-30c5b18c-e798-4116-88bb-9f892bb77be8.jpg)
+Shown in FC660M case with prototype 1.2mm FR4 Plate in FC660C Layout
 
 Supported Layouts
 ---------------
@@ -26,10 +29,10 @@ Bottom row:
 	1.25__1.0___1.25__6.25__1.25__1.25__1.25__1__1__1	(FC660m bottom row)
  
  
-Caps lock:
-	0.75u  (Non Stepped)
-	0.25u  (Alps Dell/SGI Stepped)
-	0.125u (Cherry Stepped)
+Caps lock:  
+	0.75u  (Non Stepped)  
+	0.25u  (Alps Dell/SGI Stepped)  
+	0.125u (Cherry Stepped)  
 
 Where key unit for rows: Esc[0u], 1[1u]...
 
@@ -57,10 +60,10 @@ BOM for Alps66 keyboard
 | R4    | 1K         | R_0805               |                      |
 | R5    | 10K        | R_0805               |                      |
 | SW100 | SW_PUSH    | SW_SPST_B3U-1000P-B  | B3U-1000P-B          |
-| U1    | ATMEGA32U2 | QFP32                | ATMega32u2 Atmel     | 
+| U1    | ATMEGA32U2 | QFP32                | ATMega32u2-AU        | 
 | X1    | CRYSTAL    | FA-238               | 16MHz, 12PF          |
 | D(67) | DIODE      | SOD-123 or Axial     | 1N4148               |
-| LED1  | LED        | LED                  | 2.54mm pitch         |
+| LED1  | LED        | LED_D3.0mm           | 3mm Round Top LED    |
 
 Revisions
 -------------
@@ -71,7 +74,7 @@ V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12
 &emsp;&emsp;&nbsp;&nbsp;Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library  
 &emsp;&emsp;&nbsp;&nbsp;Change ground plane configuration  
 &emsp;&emsp;&nbsp;&nbsp;Moved diode D15 to allow added mounting location between K15 and K16  
-&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars  
+&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supported by SP and GMK  
 &emsp;&emsp;&nbsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
 &emsp;&emsp;&nbsp;&nbsp;Changed matrix and removed solder jumpers  
 &emsp;&emsp;&nbsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
