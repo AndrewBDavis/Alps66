@@ -74,7 +74,7 @@ V2.0: 	The switch holes are reduced from 2.05mm, no longer supporting 8134-HC-12
 &emsp;&emsp;&nbsp;&nbsp;Changed footprint library from Hasu's keyboard_parts to personal "Keyboard_Footprints" library  
 &emsp;&emsp;&nbsp;&nbsp;Change ground plane configuration  
 &emsp;&emsp;&nbsp;&nbsp;Moved diode D15 to allow added mounting location between K15 and K16  
-&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supoorted by SP and newer centered GMK 6u spacebars  
+&emsp;&emsp;&nbsp;&nbsp;Removed wider 6u stabilizer footprint spacing, narrower footprint is supported by SP and GMK
 &emsp;&emsp;&nbsp;&nbsp;Changed SMD led to standard through hole, adding provistions for SKCL in-switch LED on Esc key  
 &emsp;&emsp;&nbsp;&nbsp;Changed matrix and removed solder jumpers  
 &emsp;&emsp;&nbsp;&nbsp;Added Support for 1.5,1.25,1.5,5,1.5,1.25,1.5,1,1,1 bottom row  
