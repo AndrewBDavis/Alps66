@@ -63,7 +63,7 @@ BOM for Alps66 keyboard
 | U1    | ATMEGA32U2 | QFP32                | ATMega32u2-AU        | 
 | X1    | CRYSTAL    | FA-238               | 16MHz, 12PF          |
 | D(67) | DIODE      | SOD-123 or Axial     | 1N4148               |
-| LED1  | LED        | LED                  | 2.54mm pitch         |
+| LED1  | LED        | LED_D3.0mm           | 3mm Round Top LED    |
 
 Revisions
 -------------
